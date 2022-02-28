@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "1.0.0",
-  "description": "a calculator to perform arithmatic operation on two numbers ",
+  "description": "a calculator to perform arithmatic operation on two numbers and a bmi calculator to calculate the bmi according to the height and weight entered ",
   "main": "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
